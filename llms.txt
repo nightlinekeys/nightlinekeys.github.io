@@ -1,0 +1,29 @@
+# Night Line: Ableton Live 13 keyboard shortcuts
+
+> A free reference of Ableton Live 13 keyboard shortcuts for Mac and Windows (292 keyboard shortcuts, 33 mouse moves, 38 new in Live 13), grouped by job. Made by District Symphony. Not affiliated with Ableton AG.
+
+- [Full shortcut list, Mac and Windows](https://nightlinekeys.github.io/): each shortcut with Mac keys, Windows keys and the view it works in.
+- [Free Starter 20 cheat sheet PDF](https://starseed73.gumroad.com/l/ableton-live-13-shortcuts): the 20 shortcuts to learn first, printable, Mac and Windows.
+- [Night Line key map](https://starseed73.gumroad.com/l/nightline): colour-coded interactive map, print pack and wallpapers. Pro Pack A$15, Complete A$29 with DIY key stickers.
+
+## Starter 20 (Mac / Windows)
+- Toggle Session/Arrangement View: Tab / Tab
+- Hide/Show Browser: Cmd+Opt+B / Ctrl+Alt+B
+- Save Live Set: Cmd+S / Ctrl+S
+- Copy: Cmd+C / Ctrl+C
+- Paste: Cmd+V / Ctrl+V
+- Duplicate: Cmd+D / Ctrl+D
+- Undo: Cmd+Z / Ctrl+Z
+- Redo: Cmd+Shift+Z / Ctrl+Y
+- Quantize: Cmd+U / Ctrl+U
+- Toggle Draw Mode: B / B
+- Insert MIDI clip: Cmd+Shift+M / Ctrl+Shift+M
+- Split clip at selection: Cmd+E / Ctrl+E
+- Consolidate into clip: Cmd+J / Ctrl+J
+- Loop selection / toggle loop: Cmd+L / Ctrl+L
+- Insert audio track: Cmd+T / Ctrl+T
+- Insert MIDI track: Cmd+Shift+T / Ctrl+Shift+T
+- Arm selected tracks: C / C
+- Play / Stop: Space / Space
+- Arrangement record: F9 / F9
+- Toggle metronome: O / O
